@@ -23,7 +23,7 @@ export default function Home() {
               <span className="text-sm">Now in Beta • Early Access Available</span>
             </div>
             <h1 className="text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary animate-fade-up">
-              AI-Powered Hiring & Onboarding Platform
+              AI-Powered Hiring & Onboarding Platform for HRs
             </h1>
             <p
               className="text-xl mb-8 text-gray-600 max-w-2xl mx-auto animate-fade-up"
